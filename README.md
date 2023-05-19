@@ -43,7 +43,7 @@ Phone Dark
 ### Links
 
 - Solution URL: [https://github.com/Zolfikaar/github-search](https://github.com/Zolfikaar/github-search)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://zolfikaar.github.io/github-search/](https://zolfikaar.github.io/github-search/)
 
 ## My process
 

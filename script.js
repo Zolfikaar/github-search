@@ -110,15 +110,15 @@ function createUserCard(user) {
 
       <div class="state">
         <div class="repos">
-          <h4>Repos</h4>
+          <h3>Repos</h3>
           <h2 class="count">${user.public_repos}</h2>
         </div>
         <div class="followers">
-          <h4>Followers</h4>
+          <h3>Followers</h3>
           <h2 class="count">${user.followers}</h2>
         </div>
         <div class="following">
-          <h4>Following</h4>
+          <h3>Following</h3>
           <h2 class="count">${user.following}</h2>
         </div>
       </div>

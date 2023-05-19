@@ -158,7 +158,7 @@ nav{
 .search-bar form .no-result{
   display: none;
   position: absolute;
-  right: 100px;
+  right: 110px;
   color: #F74646;
   font-size: 15px;
   font-weight: bold;
@@ -218,7 +218,7 @@ nav{
   h1,h2{
   font-size: 16px;
   }
-  h4{
+  h3{
     font-size: 11px;
   }
   p{
@@ -285,7 +285,7 @@ nav{
   h1,h2{
   font-size: 16px;
   }
-  h4{
+  h3{
     font-size: 11px;
   }
   p{
